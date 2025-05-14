@@ -1,5 +1,5 @@
 ## catbox mass file uploader
-simple bash script to upload all files with certain filename extensions to catbox.moe and store it in a php file.
+simple bash script to upload all files with certain filename extensions in working dir to catbox.moe and store it in a php file.
 
 ### how to run
 ```
